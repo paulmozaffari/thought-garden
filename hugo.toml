@@ -1,0 +1,18 @@
+baseURL = 'https://your-blog-name.pages.dev/'
+languageCode = 'en-us'
+title = 'My Thought Garden'
+theme = 'hugo-bearblog'
+
+[params]
+  author = "Paul"
+  description = "A minimalist thought garden."
+  # Bear Blog theme specific
+  hideMadeWithLine = true
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Needed for some HTML in Markdown if you use it
+
+[server]
+  watch = true
