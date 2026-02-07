@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64120b572778d9aa",
+        "id": "716d251d38b7126a",
         "type": "tabs",
         "children": [
           {
-            "id": "3a87c4a416a6d118",
+            "id": "fe6d978160cf39d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/blog/activation-of-a-thought-garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "activation-of-a-thought-garden"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/blog/activation-of-a-thought-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for activation-of-a-thought-garden"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/blog/activation-of-a-thought-garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links from activation-of-a-thought-garden"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/_index.md",
+                "file": "content/blog/activation-of-a-thought-garden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of activation-of-a-thought-garden"
             }
           }
         ]
@@ -183,20 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a87c4a416a6d118",
+  "active": "fe6d978160cf39d6",
   "lastOpenFiles": [
-    "public/blog/hello-world/index.html",
-    "public/blog/manifesto/index.xml",
-    "public/blog/manifesto/index.html",
-    "public/blog/execution/index.xml",
-    "public/blog/ai-security/index.xml",
-    "public/blog/execution/index.html",
-    "public/blog/ai-security/index.html",
-    "public/blog/hello-world",
-    "public/blog/manifesto",
-    "public/blog/index.xml",
-    "public/blog/index.html",
     "content/blog/hello-world.md",
-    "content/blog/_index.md"
+    "content/blog/markdown-syntax.md",
+    "content/_index.md",
+    "content/Blog.md",
+    "content/Projects.md",
+    "public/blog/journaling/index.xml",
+    "public/blog/journaling/index.html",
+    "public/blog/journaling",
+    "public/the-activation-of-a-thought-garden/index.html",
+    "public/the-activation-of-a-thought-garden",
+    "content/blog/activation-of-a-thought-garden.md",
+    "content/blog/_index.md",
+    "public/blog/markdown/index.xml",
+    "public/blog/markdown/index.html",
+    "public/blog/markdown",
+    "public/markdown-syntax-guide/index.html",
+    "public/markdown-syntax-guide",
+    "public/images/favicon.png",
+    "static/images/favicon.png"
   ]
 }

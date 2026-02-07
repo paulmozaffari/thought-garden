@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 # Generate 'Bearblog'-like URLs
 [permalinks]
-  posts = "/:slug/"
+  blog = "/:slug/"
   tags = "/blog/:slug/"
 
 [params]

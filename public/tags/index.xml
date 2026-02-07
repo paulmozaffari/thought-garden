@@ -24,10 +24,31 @@
       <description></description>
     </item>
     <item>
+      <title>Journaling</title>
+      <link>http://localhost:1313/blog/journaling/</link>
+      <pubDate>Fri, 06 Feb 2026 14:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/journaling/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Manifesto</title>
       <link>http://localhost:1313/blog/manifesto/</link>
       <pubDate>Fri, 06 Feb 2026 14:45:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/manifesto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/blog/markdown/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>http://localhost:1313/blog/syntax/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/syntax/</guid>
       <description></description>
     </item>
   </channel>

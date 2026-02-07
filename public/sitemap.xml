@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-06T14:45:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url><url>
     <loc>http://localhost:1313/blog/ai-security/</loc>
     <lastmod>2026-02-06T14:45:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/execution/</loc>
     <lastmod>2026-02-06T14:45:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/manifesto/</loc>
+    <loc>http://localhost:1313/blog/journaling/</loc>
     <lastmod>2026-02-06T14:45:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/blog/manifesto/</loc>
     <lastmod>2026-02-06T14:45:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-06T14:45:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/the-activation-of-a-thought-garden/</loc>
     <lastmod>2026-02-06T14:45:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/hello-world/</loc>
+    <loc>http://localhost:1313/hello-world/</loc>
     <lastmod>2026-02-06T14:38:28+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/markdown/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/markdown-syntax-guide/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/syntax/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

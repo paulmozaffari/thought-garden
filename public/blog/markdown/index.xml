@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Activation of a Thought Garden on My Thought Garden</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in The Activation of a Thought Garden on My Thought Garden</description>
+    <title>Markdown on My Thought Garden</title>
+    <link>http://localhost:1313/blog/markdown/</link>
+    <description>Recent content in Markdown on My Thought Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2026, Paul.</copyright>
-    <lastBuildDate>Fri, 06 Feb 2026 14:38:28 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/hello-world/</link>
-      <pubDate>Fri, 06 Feb 2026 14:38:28 +1100</pubDate>
-      <guid>http://localhost:1313/hello-world/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>http://localhost:1313/markdown-syntax-guide/</link>
