@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Thought Garden</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://my-thought-garden.pages.dev/posts/</link>
     <description>Recent content in Posts on My Thought Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Feb 2026 14:38:28 +1100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Fri, 06 Feb 2026 14:38:28 +1100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://my-thought-garden.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

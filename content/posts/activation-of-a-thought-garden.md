@@ -1,7 +1,7 @@
 ---
 title: The Activation of a Thought Garden
 date: 2026-02-06T14:45:00Z
-draft: true
+draft: false
 tags:
   - manifesto
   - execution
