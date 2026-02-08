@@ -5,7 +5,7 @@ weight = 1
 +++
 # The Activation of a Thought Garden 
 
-For years, I thought about starting a journal. I wanted a place to keep everything: my thoughts, beliefs, feelings, dreams, and even regrets, all in one spot. Part of this was for me, so I could look back and understand my choices. But I also wanted my children to have something to read one day, so they could see what their father was thinking during this important time.
+For years, I thought about starting a journal. I wanted a place to keep everything: my thoughts, life, tech, and whatever I currently find interesting, all in one spot. Part of this was for me, so I could look back and understand my choices. But I also wanted my children to have something to read one day, so they could see what their father was thinking during this important time.
 
 I thought about using a paper journal, but it just wasn’t practical. Paper can get lost, it’s hard to search through, and over time, it might disappear. So I decided to use a static website instead. It’s online, it lasts, and with today’s technology, it’s easy to search. Writing is simpler, and I can find any entry even years later.
 

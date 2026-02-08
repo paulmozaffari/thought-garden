@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/activation-of-a-thought-garden.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "activation-of-a-thought-garden"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/activation-of-a-thought-garden.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for activation-of-a-thought-garden"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/activation-of-a-thought-garden.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from activation-of-a-thought-garden"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/activation-of-a-thought-garden.md",
+                "file": "content/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of activation-of-a-thought-garden"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -186,8 +186,10 @@
   "active": "fe6d978160cf39d6",
   "lastOpenFiles": [
     "content/blog/hello-world.md",
-    "content/blog/markdown-syntax.md",
+    "content/blog/activation-of-a-thought-garden.md",
     "content/_index.md",
+    "content/blog/vibescamming-era.md",
+    "content/blog/markdown-syntax.md",
     "content/Blog.md",
     "content/Projects.md",
     "public/blog/journaling/index.xml",
@@ -195,7 +197,6 @@
     "public/blog/journaling",
     "public/the-activation-of-a-thought-garden/index.html",
     "public/the-activation-of-a-thought-garden",
-    "content/blog/activation-of-a-thought-garden.md",
     "content/blog/_index.md",
     "public/blog/markdown/index.xml",
     "public/blog/markdown/index.html",
