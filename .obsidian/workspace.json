@@ -185,6 +185,8 @@
   },
   "active": "fe6d978160cf39d6",
   "lastOpenFiles": [
+    "layouts/partials/nav.html",
+    "layouts/partials",
     "themes/hugo-bearneo/theme.toml",
     "themes/hugo-bearneo/package.json",
     "themes/hugo-bearneo/layouts/_default/_markup/render-image.html",
@@ -194,8 +196,6 @@
     "themes/hugo-bearneo/layouts/_default/list.html",
     "themes/hugo-bearneo/layouts/_default/baseof.html",
     "themes/hugo-bearneo/layouts/partials/toc.html",
-    "themes/hugo-bearneo/layouts/partials/style.html",
-    "themes/hugo-bearneo/layouts/partials/seo_tags.html",
     "themes/hugo-bearneo/images/screenshot.png",
     "themes/hugo-bearneo/images/tn.png",
     "themes/hugo-bearneo/images/screenshot-dark.png",
