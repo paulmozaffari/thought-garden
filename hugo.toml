@@ -1,7 +1,7 @@
 baseURL = "https://my-thought-garden.pages.dev/"
 languageCode = "en-us"
 title = "My Thought Garden"
-theme = "hugo-bearblog"
+theme = "hugo-bearneo"
 author = "Paul"
 copyright = "Copyright (c) 2026, Paul."
 
@@ -14,13 +14,22 @@ enableRobotsTXT = true
   tags = "/blog/:slug/"
 
 [params]
-  description = "A minimalist thought garden."
-  # Bear Blog theme specific
+  description = "AI Security Authority & Thought Garden"
+  
+  # NEO SPECIFIC FEATURES
+  showUpvote = true          # Enable the upvote button
+  showTableOfContents = true # Enable TOC for long posts
+  showShareButtons = true    # Social sharing links
   hideMadeWithLine = true
   
-  # Favicon (Place a favicon.png in static/images/)
-  favicon = "images/favicon.png"
-  
+  # AUTHORITY BUILDING (Social Icons)
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/paulmozaffari"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/paulmozaffari"
+
   # Date format (ISO 8601 style)
   dateFormat = "2006-01-02"
 

@@ -2,53 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Thought Garden</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://my-thought-garden.pages.dev/tags/</link>
     <description>Recent content in Tags on My Thought Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2026, Paul.</copyright>
+    
+    
+    
+    
     <lastBuildDate>Fri, 06 Feb 2026 14:45:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <atom:link href="https://my-thought-garden.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai-Security</title>
-      <link>http://localhost:1313/blog/ai-security/</link>
+      <link>https://my-thought-garden.pages.dev/blog/ai-security/</link>
       <pubDate>Fri, 06 Feb 2026 14:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/ai-security/</guid>
+      <guid>https://my-thought-garden.pages.dev/blog/ai-security/</guid>
       <description></description>
     </item>
     <item>
       <title>Execution</title>
-      <link>http://localhost:1313/blog/execution/</link>
+      <link>https://my-thought-garden.pages.dev/blog/execution/</link>
       <pubDate>Fri, 06 Feb 2026 14:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/execution/</guid>
+      <guid>https://my-thought-garden.pages.dev/blog/execution/</guid>
       <description></description>
     </item>
     <item>
       <title>Journaling</title>
-      <link>http://localhost:1313/blog/journaling/</link>
+      <link>https://my-thought-garden.pages.dev/blog/journaling/</link>
       <pubDate>Fri, 06 Feb 2026 14:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/journaling/</guid>
+      <guid>https://my-thought-garden.pages.dev/blog/journaling/</guid>
       <description></description>
     </item>
     <item>
       <title>Manifesto</title>
-      <link>http://localhost:1313/blog/manifesto/</link>
+      <link>https://my-thought-garden.pages.dev/blog/manifesto/</link>
       <pubDate>Fri, 06 Feb 2026 14:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/manifesto/</guid>
+      <guid>https://my-thought-garden.pages.dev/blog/manifesto/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/blog/markdown/</link>
+      <link>https://my-thought-garden.pages.dev/blog/markdown/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/markdown/</guid>
+      <guid>https://my-thought-garden.pages.dev/blog/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/blog/syntax/</link>
+      <link>https://my-thought-garden.pages.dev/blog/syntax/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/syntax/</guid>
+      <guid>https://my-thought-garden.pages.dev/blog/syntax/</guid>
       <description></description>
     </item>
   </channel>
