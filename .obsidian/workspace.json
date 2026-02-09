@@ -185,6 +185,7 @@
   },
   "active": "fe6d978160cf39d6",
   "lastOpenFiles": [
+    "layouts/index.html",
     "layouts/partials/custom_head.html",
     "content/Blog.md",
     "content/About.md",
@@ -203,7 +204,6 @@
     "themes/hugo-bearneo/layouts/_default/_markup",
     "themes/hugo-bearneo/layouts/_default/single.html",
     "themes/hugo-bearneo/layouts/_default/rss.xml",
-    "themes/hugo-bearneo/layouts/_default/list.html",
     "themes/hugo-bearneo/images/screenshot.png",
     "themes/hugo-bearneo/images/tn.png",
     "themes/hugo-bearneo/images/screenshot-dark.png",
