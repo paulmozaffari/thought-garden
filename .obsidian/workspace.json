@@ -183,14 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe6d978160cf39d6",
+  "active": "3583196c512db392",
   "lastOpenFiles": [
+    "content/blog/_index.md",
     "content/About.md",
+    "content/Blog.md",
+    "REFERENCES/Blogging_Philosophy.md",
+    "content/_index.md",
     "layouts/index.html",
     "layouts/partials/custom_head.html",
-    "content/Blog.md",
-    "content/_index.md",
-    "REFERENCES/Blogging_Philosophy.md",
     "content/blog/markdown-syntax.md",
     "content/blog/activation-of-a-thought-garden.md",
     "REFERENCES",
@@ -218,7 +219,6 @@
     "themes/hugo-bearneo/archetypes/blog.md",
     "themes/hugo-bearneo/README.md",
     "content/blog/vibescamming-era.md",
-    "content/blog/_index.md",
     "public/images/favicon.png",
     "static/images/favicon.png"
   ]
