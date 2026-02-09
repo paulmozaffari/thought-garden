@@ -185,6 +185,7 @@
   },
   "active": "fe6d978160cf39d6",
   "lastOpenFiles": [
+    "layouts/partials/custom_head.html",
     "content/Blog.md",
     "content/About.md",
     "content/_index.md",
