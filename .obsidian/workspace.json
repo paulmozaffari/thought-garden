@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/activation-of-a-thought-garden.md",
+                "file": "content/About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "activation-of-a-thought-garden"
+              "title": "About"
             }
           }
         ]
@@ -185,11 +185,14 @@
   },
   "active": "fe6d978160cf39d6",
   "lastOpenFiles": [
-    "content/About.md",
-    "content/blog/markdown-syntax.md",
-    "content/blog/hello-world.md",
-    "content/_index.md",
     "content/Blog.md",
+    "content/About.md",
+    "content/_index.md",
+    "REFERENCES/Blogging_Philosophy.md",
+    "content/blog/markdown-syntax.md",
+    "content/blog/activation-of-a-thought-garden.md",
+    "REFERENCES",
+    "content/blog/hello-world.md",
     "content/Projects.md",
     "layouts/partials/nav.html",
     "layouts/partials",
@@ -200,7 +203,6 @@
     "themes/hugo-bearneo/layouts/_default/single.html",
     "themes/hugo-bearneo/layouts/_default/rss.xml",
     "themes/hugo-bearneo/layouts/_default/list.html",
-    "themes/hugo-bearneo/layouts/_default/baseof.html",
     "themes/hugo-bearneo/images/screenshot.png",
     "themes/hugo-bearneo/images/tn.png",
     "themes/hugo-bearneo/images/screenshot-dark.png",
@@ -215,7 +217,6 @@
     "themes/hugo-bearneo/archetypes/default.md",
     "themes/hugo-bearneo/archetypes/blog.md",
     "themes/hugo-bearneo/README.md",
-    "content/blog/activation-of-a-thought-garden.md",
     "content/blog/vibescamming-era.md",
     "content/blog/_index.md",
     "public/images/favicon.png",

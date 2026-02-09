@@ -1,41 +1,41 @@
-+++
-title = "About"
-menu = "main"
-weight = 10
-+++
+---
+title: "About Me"
+date: 2026-02-08T12:00:00Z
+draft: false
+---
 
-### I build systems that hold up under pressure.
+# The Architect Behind the Garden
 
-For the last 20 years, I've worked in the engine room of enterprise technology—designing, securing, and fixing the networks that power government and global telecom infrastructure.
+**I’m Paul.** 
 
-I learned one truth the hard way: **Complexity is the enemy of execution.**
+For the last 20 years, I’ve been a silent architect of the digital world. I’ve spent two decades in Telecom and Cybersecurity, moving from hands-on engineering to senior technical leadership across enterprise and government environments. 
 
-Today, I operate at the intersection of **AI Security** and **Human Performance**.
+I’ve designed, implemented, and secured systems that had to survive reality—not just theory. 
 
-### The Shift to Authority
+### From Practitioner to Authority
 
-We are living through the biggest infrastructure shift since the internet: the rise of Generative AI. 
+In 2020, I hit a wall. Burnout revealed a fundamental flaw in my operating system: I was managing stress instead of building strength. I was acting as an expert practitioner, reacting to the world's demands rather than steering my own ship.
 
-Most security leaders are still using 20-year-old tools (WAFs, DLPs) to fight 2026 problems (Prompt Injection, VibeScamming). My work focuses on the **Semantic Blind Spot**—helping leaders secure the *intent* of their AI systems, not just the network packets.
+I realized that in an AI-driven world, technical expertise is the floor, not the ceiling. The world doesn’t need more people who can click buttons on a dashboard; it needs **authorities** who can translate the "Semantic Blind Spot" of probabilistic systems into frameworks that keep us safe.
 
-### The Philosophy: Time Aligned
+### Why This Garden Exists
 
-I am also a husband and a father of two. I don't have the luxury of "hustle culture." I cannot out-work the chaos; I have to out-think it.
+This site is my "Thought Garden." It is a laboratory where I bridge three worlds:
 
-This constraint birthed my operating philosophy: **Time Aligned Execution.**
+1.  **AI-Layer Security:** Securing the intent of the model, not just the packets on the wire.
+2.  **Time-Aligned Execution:** Building a "Productivity OS" that allows busy professionals (like me) to ship meaningful work while staying healthy and present.
+3.  **The Hero’s Journey:** The personal discipline of moving while tired, slaying the dragons of procrastination, and creating assets that provide true freedom.
 
--   **I don't manage stress;** I build strength.
--   **I don't chase freedom;** I create it through daily, aligned progress.
--   **I believe in "Double-Lock" discipline:** Doing the work even when the motivation fades.
+### Beyond the Screen
 
-### What is this Garden?
+I am a parent of two young boys. They are the "Stakes" of my mission. I don't optimize my life for "hustle"—I optimize for **presence and longevity**. 
 
-This site is my laboratory. It is where I think in public about:
-1.  **AI-Layer Security:** The frameworks we need for the next decade.
-2.  **Productivity as Leverage:** Systems for busy professionals to ship meaningful work without burning out.
-3.  **Mental Models:** Using Latticework Thinking to solve complex problems faster.
+I live by a simple mantra: *I don’t chase freedom. I create it through daily, aligned progress.*
 
-I don't teach theory. I share what I build, what I break, and what actually works when the pressure is on.
+If you are a high-performer feeling overwhelmed by the noise of 2026, or an architect trying to secure a future you can’t yet see—I hope you find something here that helps you move.
+
+**Today, we move. Even if we’re tired.**
 
 ---
-*Paul*
+*Paul*  
+*AI Security Authority | Melbourne, AU*
