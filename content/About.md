@@ -1,41 +1,27 @@
 ---
 title: "About Me"
-date: 2026-02-08T12:00:00Z
+date: 2026-02-11T11:00:00Z
 draft: false
 ---
+# Behind the Scenes
 
-# The Architect Behind the Garden
+**I’m Paul.**
 
-**I’m Paul.** 
+For years, I thought about starting a journal. I wanted a place to keep everything together: my thoughts, ideas, projects, and whatever knowledge I find interesting. Part of this is for me, so I can look back on my fears, hopes, and memories, since life gets busy and it’s easy to forget. I also want my children to have something to read one day, so they can see what I was thinking during this important time.
 
-For the last 20 years, I’ve been a silent architect of the digital world. I’ve spent two decades in Telecom and Cybersecurity, moving from hands-on engineering to senior technical leadership across enterprise and government environments. 
+I thought about using a physical journal, but it didn’t seem practical. Papers can get lost, be hard to organise, and might disappear over time. So I chose this static website instead. It’s durable, online, and easy to search, especially now with AI. This way, my thoughts can quickly become something lasting.
 
-I’ve designed, implemented, and secured systems that had to survive reality—not just theory. 
+### The End of Waiting
 
-### From Practitioner to Authority
+Even after I figured out how to do this, I kept putting off when to start. I told myself I needed perfect conditions: a quiet house, lots of energy, and no interruptions. But as a senior engineer and a parent of two, I know those moments never really happen. I kept trying to plan everything perfectly, waiting for a stress-free time that just doesn’t exist.
 
-In 2020, I hit a wall. Burnout revealed a fundamental flaw in my operating system: I was managing stress instead of building strength. I was acting as an expert practitioner, reacting to the world's demands rather than steering my own ship.
+**This page marks the end of that waiting.**
 
-I realized that in an AI-driven world, technical expertise is the floor, not the ceiling. The world doesn’t need more people who can click buttons on a dashboard; it needs **authorities** who can translate the "Semantic Blind Spot" of probabilistic systems into frameworks that keep us safe.
+### From 28 Years in the Digital Trenches
 
-### Why This Garden Exists
+I have spent nearly three decades in IT. For 20 of those years, I specialised in enterprise networking and security, designing and implementing systems for government and private sectors that had to survive reality, not theory. 
 
-This site is my "Thought Garden." It is a laboratory where I bridge three worlds:
+But at 50, I realised I had outgrown being defined by a corporate title. Now, I’m letting go of that old identity to become more of a leader, creator, and guide. This space is where I make that shift, moving from being someone who just does the work to someone who leads the conversation.
 
-1.  **AI-Layer Security:** Securing the intent of the model, not just the packets on the wire.
-2.  **Time-Aligned Execution:** Building a "Productivity OS" that allows busy professionals (like me) to ship meaningful work while staying healthy and present.
-3.  **The Hero’s Journey:** The personal discipline of moving while tired, slaying the dragons of procrastination, and creating assets that provide true freedom.
-
-### Beyond the Screen
-
-I am a parent of two young boys. They are the "Stakes" of my mission. I don't optimize my life for "hustle"—I optimize for **presence and longevity**. 
-
-I live by a simple mantra: *I don’t chase freedom. I create it through daily, aligned progress.*
-
-If you are a high-performer feeling overwhelmed by the noise of 2026, or an architect trying to secure a future you can’t yet see—I hope you find something here that helps you move.
-
-**Today, we move. Even if we’re tired.**
-
----
-*Paul*  
-*AI Security Authority | Melbourne, AU*
+**Paul**  
+*AI Security Authority | Melbourne, Australia
