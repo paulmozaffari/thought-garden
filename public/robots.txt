@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://my-thought-garden.pages.dev/sitemap.xml

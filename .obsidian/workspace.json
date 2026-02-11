@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/about.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "_index"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "52bd737eb0f57120",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/blog/my-personal-operating-system.md",
     "content/blog/about.md",
     "content/blog/_index.md",
-    "content/blog/my-personal-operating-system.md",
+    "content/_index.md",
     "content/blog/My Personal Operating System.md",
     "public/about/index.html",
     "public/about",
