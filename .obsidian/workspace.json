@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/My Personal Operating System.md",
+                "file": "content/blog/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Personal Operating System"
+              "title": "about"
             }
           }
         ]
@@ -185,16 +185,17 @@
   },
   "active": "52bd737eb0f57120",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/blog/about.md",
+    "content/blog/_index.md",
+    "content/blog/my-personal-operating-system.md",
+    "content/blog/My Personal Operating System.md",
     "public/about/index.html",
     "public/about",
-    "content/blog/about.md",
     "content/About.md",
     "content/about.md",
     "public/my-personal-operating-system/index.html",
     "public/my-personal-operating-system",
-    "content/blog/My Personal Operating System.md",
-    "content/blog/_index.md",
-    "content/_index.md",
     "content/blog/peak-protocol-operating-system.md",
     "content/blog/activation-of-a-thought-garden.md",
     "content/Blog.md",
@@ -207,7 +208,6 @@
     "layouts/partials/nav.html",
     "layouts/partials",
     "themes/hugo-bearneo/theme.toml",
-    "themes/hugo-bearneo/package.json",
     "themes/hugo-bearneo/images/screenshot.png",
     "themes/hugo-bearneo/images/tn.png",
     "themes/hugo-bearneo/images/screenshot-dark.png",
