@@ -1,4 +1,4 @@
-baseURL = "https://my-thought-garden.pages.dev/"
+baseURL = "https://thought-garden.pages.dev/"
 languageCode = "en-us"
 title = "My Thought Garden"
 theme = "hugo-bearneo"
