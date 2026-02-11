@@ -12,7 +12,7 @@ For years, I chased productivity. I tried new systems, apps, and routines. Each 
 
 Let me share my personal productivity philosophy. This isn’t a one-size-fits-all system, but more like a set of guiding principles that keep me moving forward, even when motivation is low or life gets hectic.
 
-My Personal Success System: **The “P.E.A.K.” Protocol
+My Personal Success System: **The “P.E.A.K.” Protocol**
 
 I call it the P.E.A.K. protocol because it’s based on what keeps me moving: having a clear purpose, working efficiently, taking action even when it’s tough, and staying curious.
 
@@ -39,7 +39,7 @@ In security, we defend the perimeter. In productivity, we defend our focus.
 
 Thinking is safe. Execution is risky. This is where most people stall.
 
-* **“Do It Anyway” Trigger:** When fear or procrastination shows up, which it always does, I try to take one small step forward. Taking action almost always helps with anxiety.
+* **Do It Anyway:** When fear or procrastination shows up, which it always does, I try to take one small step forward. Taking action almost always helps with anxiety.
 
 * **Public Commitment:** I ship in public. Whether it’s a LinkedIn post or a video, telling the world my intent creates an accountability loop that keeps me honest.
 

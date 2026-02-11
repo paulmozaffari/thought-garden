@@ -3,9 +3,7 @@ title = "Home"
 menu = "main"
 weight = 1
 +++
-# The Activation of a Thought Garden 
-
-### Longevity, Productivity, & AI
+# Longevity, Productivity, & AI
 
 This site is where I experiment and share ideas. Here, I combine my technical background with my passion for helping people grow. I focus on three main areas:
 

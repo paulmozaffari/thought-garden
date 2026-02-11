@@ -23,5 +23,3 @@ I have spent nearly three decades in IT. For 20 of those years, I specialised in
 
 But at 50, I realised I had outgrown being defined by a corporate title. Now, I’m letting go of that old identity to become more of a leader, creator, and guide. This space is where I make that shift, moving from being someone who just does the work to someone who leads the conversation.
 
-**Paul**  
-*AI Security Authority | Melbourne, Australia
