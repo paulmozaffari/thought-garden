@@ -12,7 +12,7 @@ For years, I chased productivity. I tried new systems, apps, and routines. Each 
 
 Let me share my personal productivity philosophy. It’s not a one-size-fits-all system, but a set of guiding principles that help me keep going, even when motivation is low or life gets busy.
 
-My Personal Success System: **The P.E.A.K** Protocol
+My Personal Success System: The **P.E.A.K** Protocol
 
 I call it the P.E.A.K. protocol because it’s built on what keeps me going: having a clear purpose, working efficiently, taking action even when it’s hard, and staying curious.
 
@@ -49,7 +49,7 @@ Thinking feels safe. Taking action is risky. This is where most people get stuck
 
 Anyone can find information. The internet made that easy. What most people never learn is how to turn it into something useful.
 
-- **The Learning Log: It’s** not a dump of everything I’ve read or watched, but a focused archive of insights worth keeping.
+- **The Learning Log:** It’s not a dump of everything I’ve read or watched, but a focused archive of insights worth keeping.
 - **Monthly Iterations:** Every 30 days, I review my goals and remove what isn’t working. I don’t get sentimental or worry about sunk costs. Simplicity works. Complexity doesn’t.
 - **Celebrate Wins:** Small wins matter. Noticing progress keeps me motivated.
 
