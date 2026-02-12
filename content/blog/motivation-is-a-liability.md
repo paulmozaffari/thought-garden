@@ -1,8 +1,12 @@
 ---
-title: "Why Motivation is a Liability (and Structure is the Asset)"
+title: Why Motivation is a Liability
 date: 2026-02-07T16:00:00Z
 draft: false
-tags: ["execution", "productivity", "time-aligned", "resilience"]
+tags:
+  - execution
+  - productivity
+  - time-aligned
+  - resilience
 ---
 For a long time, I operated under a dangerous assumption: that if I just had more **discipline**, I could outrun the chaos.
 
