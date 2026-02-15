@@ -31,7 +31,7 @@ In the past, causing large-scale harm took years of discipline and study. AI cha
 
 Dario highlights a real geopolitical risk: AI-driven mass surveillance and targeted propaganda. For democracies, this is the ultimate test of clear boundaries.
 
-- **The Defense:** We can’t afford to wait and see. We need to keep a “chip buffer” to slow down autocracies, giving democracies time to build AI responsibly.
+- **The Defense:** We can’t afford to wait and see. We need to keep a buffer to slow down autocracies, giving democracies time to build AI responsibly.
 
 ### 4. The Labour Crisis & Wealth Concentration
 
