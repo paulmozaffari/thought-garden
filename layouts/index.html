@@ -3,7 +3,7 @@
   {{ .Content }}
   <h2 id="my-most-recent-posts">My most recent posts</h2>
   <ul class="blog-posts">
-    {{ range (where .Site.RegularPages "Section" "blog") }}
+    {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
     <li>
       <span>
         <i>

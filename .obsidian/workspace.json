@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/valentine-for-homeland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "valentine-for-homeland"
             }
           }
         ]
@@ -185,13 +185,14 @@
   },
   "active": "52bd737eb0f57120",
   "lastOpenFiles": [
+    "content/blog/threshold-of-aliveness.md",
+    "content/blog/my-personal-operating-system.md",
+    "content/blog/motivation-is-a-liability.md",
+    "content/blog/adolescence-of-power-dario-amodei.md",
+    "content/_index.md",
     "content/blog/valentine-for-homeland.md",
     "content/blog/_index.md",
     "content/blog/about.md",
-    "content/blog/adolescence-of-power-dario-amodei.md",
-    "content/blog/motivation-is-a-liability.md",
-    "content/blog/my-personal-operating-system.md",
-    "content/blog/threshold-of-aliveness.md",
     "content/blog/tips-n-tricks.md",
     "content/blog/tutorial.md",
     "content/blog/using-svelte-in-markdown.md",
@@ -204,7 +205,6 @@
     "content/blog/faq.md",
     "content/blog/extract_wisdom.md",
     "content/blog/architecture-of-congruence.md",
-    "content/_index.md",
     "src/content/posts/welcome.md",
     "src/content/posts/using-svelte-in-markdown.md",
     "src/content/posts/tutorial.md",
