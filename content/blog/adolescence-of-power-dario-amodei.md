@@ -4,7 +4,6 @@ date: 2026-02-08 15:30:00Z
 draft: false
 tags:
   - ai-security
-  - geopolitics
   - future-of-work
 ---
 I’ve worked in network security and enterprise engineering for twenty years. The biggest lesson I’ve learned is that **systems fail when their basic assumptions no longer hold.**

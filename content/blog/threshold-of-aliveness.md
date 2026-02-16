@@ -5,8 +5,6 @@ date: 2026-02-14
 tags:
   - philosophy
   - identity
-  - aliveness
-  - self-authorship
 ---
 I recently watched *Big Bold Beautiful Journey*, and it didn't just entertain me—it activated a latent tension I’ve been carrying. It mirrored a part of me that has been quietly waiting for permission.
 
@@ -43,6 +41,3 @@ Don't plan. Don't optimize. Just notice what shows up.
 
 That is the door. Step through.
 
-***
-
-*This post was cultivated in the Thought Garden, where I explore the intersection of AI Security, personal systems, and the messy business of being human.*
