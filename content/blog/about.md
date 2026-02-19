@@ -1,8 +1,8 @@
 ---
-title: "About Me"
+title: About Me
 date: 2026-02-01T12:00:00Z
-draft: false
-url: "/about/"
+dRefine itraft: false
+url: /about/
 ---
 I’ve worked in IT for almost thirty years. For 20 of those, I focused on enterprise networking and security, building systems for both government and private clients that worked in the real world, not just on paper.
 

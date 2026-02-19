@@ -1,7 +1,7 @@
 ---
 title: A Valentine’s Day for My Homeland
 description: A reflection on the Feb 14 global protests for Iran, unity in Melbourne, and a vow to the fallen.
-date: 2026-02-14
+date: 2026-02-15
 tags:
   - iran
   - melbourne
