@@ -185,6 +185,7 @@
   },
   "active": "52bd737eb0f57120",
   "lastOpenFiles": [
+    "content/blog/architecture-of-meaning.md",
     "content/blog/threshold-of-aliveness.md",
     "content/blog/shadow-stack-reality.md",
     "content/blog/roi-of-insecurity.md",
@@ -211,7 +212,6 @@
     "content/blog/faq.md",
     "content/blog/extract_wisdom.md",
     "src/content/posts/welcome.md",
-    "src/content/posts/using-svelte-in-markdown.md",
     "src/content/posts",
     "src/content",
     "src",

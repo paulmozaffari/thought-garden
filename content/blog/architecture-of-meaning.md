@@ -40,6 +40,15 @@ This realization has changed my daily execution.
 2.  **Visible Choice:** I’m spending more time simply *playing* with my kids. Not "managing" their schedule or "protecting" their outcomes, but being present in the visible joy of the moment.
 3.  **Managing the Denominator:** In my 40s, I wanted more. In my 50s, I am learning the secret of the denominator: *Satisfaction = What you have / What you want.* By intentionally wanting less for myself and giving more to those around me, my satisfaction is actually increasing.
 
+
+### Why I Started Journaling Online
+
+This is why I have committed to journaling in public. 
+
+Brooks explains that difficult or traumatic memories are often "ghosts in the brain"—purely limbic, unsupervised, and deeply uncomfortable. Our natural tendency is to suppress them, numb them, or adopt a victim identity around them. 
+
+**Journaling is the extraction tool.** It transforms these "ghosts" from purely emotional experiences into analyzed, narrative ones. By writing, I am allowing my prefrontal cortex to process what my limbic system has been storing raw. Modern neuroscience confirms that memory is more about reconstruction than retrieval; by journaling, I am literally rewriting how I understand my past and, in doing so, reclaiming my future.
+
 ### The New North Star
 
 I am no longer just building strength; I am building a legacy. I am no longer just chasing freedom; I am creating it so I can be more available for the people who matter.
