@@ -11,7 +11,7 @@ I recently crossed the 50-year horizon. In the same season, I lost my father.
 
 These two events, one marking time and the other bringing a deep sense of loss, came together and created an emotional wave I wasn’t ready for. For years, I studied longevity and self-improvement. I treated my body like a vital structure and my routines like reliable code. But at my father’s memorial, all my efforts to optimise my life suddenly felt lacking.
 
-I found myself stuck in doubt. If I have figured out how to survive and aim to live longer, what is the purpose of that extra time*?*
+I found myself stuck in doubt. If I have figured out how to survive and aim to live longer, what is the purpose of that extra time?
 
 ### The Shift from Self to Pillars
 
