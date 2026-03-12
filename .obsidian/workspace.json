@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/valentine-for-homeland.md",
+                "file": "content/Draft/AI_Security_Leadership_Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "valentine-for-homeland"
+              "title": "AI_Security_Leadership_Plan"
+            }
+          },
+          {
+            "id": "dec7b7e8117ee46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Draft/attention-is-all-you-need.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "attention-is-all-you-need"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/blog/apex-velocity-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for apex-velocity-model"
             }
           },
           {
@@ -183,35 +198,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "52bd737eb0f57120",
+  "active": "dec7b7e8117ee46f",
   "lastOpenFiles": [
-    "content/blog/threshold-of-aliveness.md",
-    "content/blog/shadow-stack-reality.md",
-    "content/blog/roi-of-insecurity.md",
-    "content/blog/Real-life-stress.md",
-    "content/blog/my-personal-operating-system.md",
-    "content/blog/motivation-is-a-liability.md",
-    "content/blog/identity-compression.md",
-    "content/blog/architecture-of-meaning.md",
-    "content/blog/ai-revolution-is-a-gym.md",
     "content/blog/adolescence-of-power-dario-amodei.md",
+    "content/blog/ai-revolution-is-a-gym.md",
+    "content/blog/architecture-of-meaning.md",
+    "content/blog/identity-compression.md",
+    "content/blog/motivation-is-a-liability.md",
+    "content/blog/my-personal-operating-system.md",
+    "content/blog/Real-life-stress.md",
+    "content/blog/threshold-of-aliveness.md",
     "content/blog/valentine-for-homeland.md",
     "content/blog/about.md",
-    "content/blog/the-permanent-architecture.md",
-    "content/blog/_index.md",
-    "content/blog/ai-governance-illusion-dynamic-integrity.md",
-    "content/blog/architecture-of-congruence.md",
-    "README.md",
-    "Untitled.canvas",
-    "2026-02-17.md",
+    "content/Draft/Wealth-Accumulation-in-Cybersecurity.md",
+    "content/Draft/The-Sovereign-Security-Architect.md",
+    "content/Draft/The-Adversary-Has-Accelerated.md",
+    "content/Draft/shadow-stack-reality.md",
+    "content/Draft/Session_Review_2026-02-06_System_Authority.md",
+    "content/Draft/Securing-AI-Agents-101.md",
+    "content/Draft/roi-of-insecurity.md",
+    "content/Draft/PM_Shadow_Stack_Reality.md",
+    "content/Draft/dynamic-integrity-scorecard.md",
+    "content/Draft/Build_the_Life_You_Want_Summary.md",
+    "content/Draft/attention-is-all-you-need.md",
+    "content/Draft/apex-velocity-model.md",
+    "content/Draft/AM_ROI_of_Insecurity.md",
+    "content/Draft/AI_Security_Leadership_Plan.md",
     "content/_index.md",
-    "content/blog/tips-n-tricks.md",
-    "content/blog/tutorial.md",
-    "content/blog/using-svelte-in-markdown.md",
-    "content/blog/welcome.md",
-    "content/blog/resources.md",
-    "content/blog/product-review.md",
-    "content/blog/personal-story.md",
+    "content/Draft",
+    "content/blog/Untitled",
+    "content/blog/the-permanent-architecture.md",
+    "Untitled.canvas",
     "src/content/posts",
     "src/content",
     "src",
@@ -220,8 +237,6 @@
     "public/my-personal-operating-system/index.html",
     "public/my-personal-operating-system",
     "layouts/index.html",
-    "layouts/partials/custom_head.html",
-    "REFERENCES",
     "themes/hugo-bearneo/images/screenshot.png",
     "themes/hugo-bearneo/images/tn.png",
     "themes/hugo-bearneo/images/screenshot-dark.png",
