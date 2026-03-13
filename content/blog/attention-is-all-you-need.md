@@ -14,7 +14,7 @@ But I see this idea as not just technical, but a biological mandate.
 
 Today, during what some call the Attention War, attention isn’t just a tool you use. It’s a big part of who you are and what your life is made of.
 
-Oliver Burkeman, in *Four Thousand Weeks*, reminds us that life is short, about 4,000 weeks. If what you focus on shapes your life, then losing your attention isn’t just about being less productivity. It means losing part of your life.
+Oliver Burkeman, in *Four Thousand Weeks*, reminds us that life is short, about 4,000 weeks. If what you focus on shapes your life, then losing your attention isn’t just about being less productive. It means losing part of your life.
 
 Between waking up and having your first coffee, you’ve probably already faced a few distractions.
 
@@ -40,7 +40,7 @@ Your attention is one of the rarest and most valuable gifts you have. When you g
 
 This is the real cost that often gets overlooked. We talk a lot about screen time, but not enough about what losing our attention actually takes from us.
 
-To think deeply, you need at least 20 minutes without interruptions to get into a flow state. Constant interruptions stop this, leaving you busy but not really productivity, reactive instead of intentional.
+To think deeply, you need at least 20 minutes without interruptions to get into a flow state. Constant interruptions stop this, leaving you busy but not really productive, reactive instead of intentional.
 
 Managing your emotions depends on having quiet moments. Without silence, your mind can’t process things. Sleep, quiet, and time to think help your brain make sense of your experiences and feelings. They help you find balance. Without them, low-level anxiety sticks around, not because life is harder, but because your nervous system never gets a break.
 
