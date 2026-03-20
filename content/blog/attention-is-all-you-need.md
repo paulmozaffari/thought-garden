@@ -1,4 +1,4 @@
-﻿---
+---
 title: Attention Is All You Need
 description: Living and thinking with intention in a world full of constant distractions.
 date: 2026-03-13
@@ -7,7 +7,6 @@ tags:
   - Productivity
   - Philosophy
 ---
-
 The 2017 paper "Attention Is All You Need" brought the Transformer to machine learning, showing how understanding word relationships and context could unlock new kinds of intelligence.
 
 But I see this idea as not just technical, but a biological mandate.
@@ -45,33 +44,26 @@ To think deeply, you need at least 20 minutes without interruptions to get into 
 Managing your emotions depends on having quiet moments. Without silence, your mind can’t process things. Sleep, quiet, and time to think help your brain make sense of your experiences and feelings. They help you find balance. Without them, low-level anxiety sticks around, not because life is harder, but because your nervous system never gets a break.
 
 When most of your attention goes to outside sources like other people’s opinions, media, or algorithm-driven content, your sense of self gets weaker. It becomes harder to know what you think and value. You start to lose touch with who you are and who you want to be. As I wrote in *Identity-Led Growth*, figuring out who you’re becoming takes quiet time. That quiet is the first thing the Attention War takes from you.
-
----
-
 ## The Strategy for the Attention War
 
 ### 1. Acknowledge the Finitude
 
 You’ll never get everything done, and that’s okay. Burkeman says this is just how life works. The value of a choice comes from what you give up to make it. Stop chasing the dream of an empty inbox or a free afternoon that never comes. Instead, ask yourself: since I can’t do everything, what really deserves my attention today?
-
 ### 2. Physiology Over Philosophy
 
 When you notice your attention slipping, and it will, don’t just try to think your way out of it. Change your state. Move around. Take a few deep breaths. Physical action comes before mental focus.
 
 Willpower alone can’t protect your attention from technology designed to grab it. Mental energy is limited and drains quickly. It runs out with use, gets interrupted easily, and only recovers with rest or movement. Good intentions alone aren’t enough.
-
 ### 3. The 3-Hour Clean Start
 
 My Double-Lock Protocol isn’t about getting more done. It’s about making sure my first three hours belong to me, not to the noise of the world.
 
 Before checking your phone, before the news, before anyone else’s agenda takes over, I use what I call a **Double-Lock Protocol**. It’s a daily habit that centres my focus before the world can pull it away. Start with a few minutes alone with my thoughts. Ask myself: What matters to me today? What kind of person do I want to be today? Set my own intentions before outside influences step in.
-
 ### 4. Design Your Environment for Structure
 
 Structure is stronger than willpower. Keep your phone out of the bedroom. Turn off all non-essential notifications for good, not just silence them. Use website blockers when you need to focus. Set up phone-free areas at home.
 
 Do one thing at a time. What we call multitasking is really just switching your attention back and forth. Each switch costs you 15 to 20 minutes to refocus. One 90-minute block of focused work will get you further than a scattered six-hour day. Start with 25 minutes and build up from there.
-
 ### 5. Being in Time, Not Using It
 
 This is the most important change. Stop treating your life like a broken machine that needs fixing. Your life isn’t a problem to solve, it’s something to enjoy.

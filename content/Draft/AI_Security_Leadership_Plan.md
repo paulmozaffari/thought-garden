@@ -47,3 +47,23 @@
 - **Pipeline Lab:** 1 hour/week building/breaking local RAG & Agent instances.
 
 **"I build systems that survive reality."**
+
+## Key Insights
+
+**The opportunity is real and growing** Companies are rapidly deploying AI-powered applications without proper security testing, creating significant vulnerability exposure and career opportunity for those who learn this skill.
+
+**The learning path (beginner to entry-level)**
+
+1. **Gandalf** (gandalf.lakera.ai) — learn the basics of prompt injection
+2. **Agent Breaker** — hack realistic AI-powered apps (portfolio advisor, trip planner, etc.)
+3. **Auto Parts CTF** — a self-hostable CTF based on a _real_ client pen test, with 5 flags to capture
+
+**Free resources exist** — Jason's team at CANAM open-sourced 23 AI hacking labs, available on GitHub Pages.
+
+**What real AI hacking looks like** From the Auto Parts demo: a simple search bar leaked a system prompt, exposed API keys, and then revealed confidential patent data, pricing, and corporate secrets from a RAG database — all from prompt injection alone.
+
+**LLMs are non-deterministic** — the same attack may need to be tried 5–10+ times, which is fundamentally different from traditional hacking.
+
+**The barrier to entry is low** — a 12-year-old completed the Auto Parts CTF in 35 minutes. Completing it puts you at the _end of entry level_.
+
+**Monetisation paths** — bug bounties (Anthropic, OpenAI, Google all have programs), CTF cash prizes, and job opportunities in a still-emerging field.
